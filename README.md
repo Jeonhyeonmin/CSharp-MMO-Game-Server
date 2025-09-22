@@ -4,6 +4,8 @@ Welcome! This repository contains a high-performance MMO game server engine buil
 
 ---
 
+![GitReadMeImg01](./GitReadMe/Img/GitReadMe_Img01.png)
+
 ### Core Architecture at a Glance
 
 This server's design is modular, focusing on the key pillars of MMO technology. Each system was built from the ground up to ensure efficiency and control.
