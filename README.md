@@ -1,6 +1,6 @@
 # 🎮 C# MMO Game Server Engine
 
-Welcome! This repository contains a high-performance MMO game server engine built entirely from scratch in C#. This project is a deep dive into the core architecture of online game servers, translating complex theories into practical, high-performance code.
+A project for implementing an MMO game server from the ground up using C#, focusing on concepts like multithreading and socket communication.
 
 ---
 
