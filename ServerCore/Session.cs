@@ -37,7 +37,7 @@ namespace ServerCore
 			}
 
 			if (packetCount > 1)
-				Console.WriteLine($"패킷 모아보내기 : {packetCount}");
+				Console.WriteLine($"Batch Sending of Packets : {packetCount}");
 
 			return processLen;
 		}
