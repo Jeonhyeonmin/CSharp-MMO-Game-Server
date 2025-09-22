@@ -27,4 +27,4 @@ This project was built using the following technologies:
 
 ---
 
-This project serves as a comprehensive portfolio piece demonstrating a strong understanding of low-level server programming and concurrent systems architecture.
+This project serves as a comprehensive portfolio piece demonstrating a strong understanding of low-level server programming and concurrent systems architecture~
